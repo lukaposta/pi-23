@@ -13,7 +13,7 @@ Potrebno je napraviti softver koji korisnicima (nastavnom i nenastavnom osoblju 
 Ideja je da postoji softver koji će omogućiti da korisnik pošalje zahtjev djelatnicima CIP-a pri čemu djelatnici reagiraju na zahtjev ovisno o hitnosti zahtjeva (prioritetu). Softver bi trebao omogućiti da se korisnik prijavi u sustav, preda zahtjev Centru upisujući opis zahtjeva i navodi sebe kao odgovornu osobu koja je podnijela zahtjev. Nakon toga djelatnik Centra pregledava zahtjeve, preuzima odgovornost za njihovo rješavanje i dodjeljuje im prioritet. Kako se zahtjev rješava, djelatnik Centra upisuje status zahtjeva i opcionalno upisuje komentare preko kojih se prati što je napravljeno po pitanju zahtjeva. Drugim riječima, „Komentari“ omogućuju praćenje procesa rješavanja problema i upis zadnje promjene koja je napravljena kako bi se problem riješio.
 
 ## Zadatak
-https://github.com/foivz/pi2023-zadace-lposta21/blob/master/Zadatak%20-%20Help%20Desk%20za%20CIP.pdf
+[https://github.com/foivz/pi2023-zadace-lposta21/blob/master/Zadatak%20-%20Help%20Desk%20za%20CIP.pdf](https://github.com/lukaposta/PI-23/blob/main/Zadatak%20-%20Help%20Desk%20za%20CIP.pdf)
 
 ## Resursi
 Svi resursi nalaze se u mapi _Documentation_.
