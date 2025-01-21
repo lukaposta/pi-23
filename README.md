@@ -4,7 +4,7 @@ Korisnički zahtjevi za Softver Help Desk za centar za informatičku podršku (C
 ## Podaci o studentu
 Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 -- | - | - | -
-Luka Pošta | lposta21@foi.hr | 0123456789 | lposta21
+Luka Pošta | lukaposta@foi.hr | 0123456789 | lposta21
 
 ## Opis domene
 Potrebno je napraviti softver koji korisnicima (nastavnom i nenastavnom osoblju Fakulteta) omogućuje slanje zahtjeva za pomoć i praćenje njihovog rješavanja u Centru za informatičku podršku (CIP) na Fakultetu.
